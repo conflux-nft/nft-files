@@ -1,0 +1,38 @@
+{
+  "name": "Test NFTs #10077",
+  "description": "Test NFTs",
+  "image": "https://raw.githubusercontent.com/conflux-nft/nft-files/master/images/10077.png",
+  "dna": "0697faddf45aa21aa7952b94adcf3ab1c57e15d1",
+  "edition": 10077,
+  "date": 1658990315849,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ]
+}
